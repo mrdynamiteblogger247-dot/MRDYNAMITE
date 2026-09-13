@@ -444,7 +444,7 @@ button:focus-visible,a:focus-visible{
   <div class="hero-buttons">
 
     <a class="btn gold-btn"
-       href="https://www.instagram.com/mr_dynamite247/"
+       href="https://www.instagram.com/mr.dynamite247/"
        target="_blank"
        rel="noopener noreferrer">
       📸 فالو کن در اینستاگرام ↗
@@ -528,7 +528,7 @@ button:focus-visible,a:focus-visible{
       همین الان همراه ما باش.
     </p>
 
-    <div class="handle">@mr_dynamite247</div>
+    <div class="handle">@mr.dynamite247</div>
 
     <a class="btn gold-btn"
        href="https://www.instagram.com/mr_dynamite247/"
